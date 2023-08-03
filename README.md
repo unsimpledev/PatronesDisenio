@@ -1,5 +1,5 @@
 # PatronesDisenio
-Algunos ejemplos de patrones de diseño:
+Algunos ejemplos de patrones de diseño implementados en Java:
 
 La explicación de cada patrón la puedes encontrar en mis canales de Youtube o Tiktok: 
 <p align="left">
