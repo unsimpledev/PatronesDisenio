@@ -1,6 +1,8 @@
-package unsimpledev.strategy;
+package estrategias;
 
 import java.util.Date;
+
+import carrito.IMetodoPago;
 
 /**
  * Estrategia concreta para pago por Tarjeta

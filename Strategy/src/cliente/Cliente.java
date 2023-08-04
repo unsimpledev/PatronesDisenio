@@ -1,9 +1,11 @@
-package unsimpledev;
+package cliente;
 
 import java.sql.Date;
 
-import unsimpledev.strategy.MetodoPagoPaypal;
-import unsimpledev.strategy.MetodoPagoTarjeta;
+import carrito.Carrito;
+import carrito.Item;
+import estrategias.MetodoPagoPaypal;
+import estrategias.MetodoPagoTarjeta;
 
 /**
  * Crea el carrito para hacer la compra, los datos estan hardcodeados

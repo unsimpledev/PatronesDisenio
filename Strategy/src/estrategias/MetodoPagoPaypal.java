@@ -1,4 +1,6 @@
-package unsimpledev.strategy;
+package estrategias;
+
+import carrito.IMetodoPago;
 
 /**
  * Estrategia concreta para pago por Paypal

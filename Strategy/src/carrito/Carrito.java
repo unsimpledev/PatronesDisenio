@@ -1,9 +1,7 @@
-package unsimpledev;
+package carrito;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import unsimpledev.strategy.IMetodoPago;
 
 public class Carrito {
 

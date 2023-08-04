@@ -1,4 +1,4 @@
-package unsimpledev.strategy;
+package carrito;
 
 /** 
  * Interfaz que representa la estrategia de pago
